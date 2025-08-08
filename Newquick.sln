@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newquick", "Newquick\Newquick.csproj", "{AF08A7E9-2210-48D6-9D21-53ED131006C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF08A7E9-2210-48D6-9D21-53ED131006C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF08A7E9-2210-48D6-9D21-53ED131006C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF08A7E9-2210-48D6-9D21-53ED131006C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF08A7E9-2210-48D6-9D21-53ED131006C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F511C733-A5A9-4AB4-975D-4CD510C9D56E}
+	EndGlobalSection
+EndGlobal
